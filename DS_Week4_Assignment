@@ -1,6 +1,5 @@
 -- Take-Home SQL Assignment
--- Author: [Your Name]
--- Date: [Submission Date]
+
 
 -- Q1: Total number of orders completed on 18th March 2023
 SELECT COUNT(*) AS total_orders
